@@ -36,13 +36,11 @@ Négy példa arra, hogyan kapcsolódnak össze a hatások.
 
 4 döntés · 3 szempont
 Iskolai döntések és lehetséges hatásaik
-Iskolai döntés	Lehetséges
-környezeti
-hatás	Lehetséges
-társadalmi
-hatás	Lehetséges
-gazdasági
-hatás	Hogyan függnek össze?
+Iskolai döntés	
+Lehetséges környezeti hatás	
+Lehetséges társadalmi hatás
+Lehetséges gazdasági hatás	
+Hogyan függnek össze?
 01 / VÍZ
 Ivóvíz-utántöltés és saját kulacs	Kevesebb egyszer használatos palackra lehet szükség.	Az ivóvíz könnyebben elérhető a diákoknak.	Az ivóvízpont kialakítása és fenntartása pénzbe kerül.	
 Ha sokan tudnak vizet tölteni, kevesebb palackot vásárolhatnak. Ehhez működő, karbantartott ivóvízpont kell.
